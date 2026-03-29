@@ -5,12 +5,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 CTO @ Slicktrip.com
 -----------------------------
 
-I am a qualified and professional full-stack software developer with experience in Javascript, React, Node, Sequelize and website design. Strong creative and analytical skills with ability to quickly grasp new languages. Team player with an eye for detail.
+I am a qualified and professional full-stack software developer with experience in Javascript, React, Node, Python, Sequelize and website design. Strong creative and analytical skills with ability to quickly grasp new languages. Team player with an eye for detail.
 
-* 🌍  I'm based in New Jersey
-* 🖥️  Built [tinyweb](http://tinyweb.site)
-* ✉️  You can contact me at [dovi@geretz.com](mailto:dovi@geretz.com)
-* 🚀  I'm currently working on [TheBigO.Blog](http://http://thebigo.blog/)
 
 ### Skills
 
